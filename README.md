@@ -99,5 +99,5 @@ Apache License 2.0
 
 ## Questions ?
 
-[https://twitter.com/intent/tweet?text=%40thammegowda%20Hey%20TG%2C%20I%20have%20%20a%20question&source=webclient](Send them to me)
+[Send them here](https://twitter.com/intent/tweet?text=%40thammegowda%20Hey%20TG%2C%20I%20have%20%20a%20question&source=webclient)
 
