@@ -14,9 +14,17 @@ $ md5sum inception-model-weights.h5
 e0fff1809e92effa7e74f365951149ab  inception-model-weights.h5
 ```
 
+Tika v1.15 is required however it was not released at the time of writing this README. So install Tika from source.
+
+```
+git clone git@github.com:apache/tika.git
+cd tika
+mvn install -DskipTests
+```
+
+
 ```
 # Build for all platforms
-
 mvn clean package
 
 # Build for a specific platform (thus to remove unnecessary native libs)
